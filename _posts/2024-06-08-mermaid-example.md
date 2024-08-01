@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Mermaid example
-categories: example
-tags: [dummy]
+categories: paradox
+tags: [paradox,culturals]
 ---
 
 ### 1. Pie chart

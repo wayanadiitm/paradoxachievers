@@ -3,7 +3,7 @@ layout: post
 title: An exhibit of Markdown
 subtitle: Each post also has a subtitle
 categories: markdown
-tags: [example, markdown]
+tags: [paradox, sports]
 ---
 
 This note demonstrates some of what [Markdown][1] is capable of doing.

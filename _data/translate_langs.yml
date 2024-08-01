@@ -8,3 +8,11 @@
 - lang: hi
   img: https://cdn-icons-png.flaticon.com/128/11085/11085570.png
   text: Hindi
+
+- lang: bn
+  img: https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Bengali_Letter_A.svg/1024px-Bengali_Letter_A.svg.png
+  text: Bangla
+
+- lang: ta
+  img: https://cdn-icons-png.flaticon.com/128/15536/15536135.png
+  text: Tamil
